@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculator">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="btnReCalculate">Re-Calcular</string>
+
+    <string name="title_peso_bajo">Peso bajo</string>
+    <string name="descripcion_peso_bajo">Estas por debajo del peso normal</string>
+
+    <string name="title_peso_normal">Peso optimo</string>
+    <string name="descripcion_peso_normal">Estas en el peso optimo acorde a tu estatura</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="descripcion_sobrepeso">Estas por encima del peso normal</string>
+
+    <string name="obesidad">Obesidad</string>
+    <string name="descripcion_obesidad">Estas MUY por encima del peso normal</string>
+
+    <string name="title_error">Error</string>
+    <string name="imc_error">Error</string>
+    <string name="descripcion_error">Error</string>
+
+</resources>
